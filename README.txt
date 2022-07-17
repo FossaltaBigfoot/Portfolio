@@ -1,0 +1,1 @@
+Personal portfolio that will contain recent projects that I am either working on or have completed as well as all my social media links, github and contact information.
